@@ -14,4 +14,4 @@ I am a cyber security analys and have experience in working in many startups as 
 
 ### 📫 Reach me at 
 [![Telegram](https://t.me/@MrcakilReal)
-[![Linkedin](https://cdn.imgbin.com/0/12/3/imgbin-telegram-logo-computer-icons-social-white-arrow-illustration-Y4zYuwQ8rR3LYPMvJRkamGCkY.jpg) Telegram](https://t.me/@MrcakilReal)
+[![Linkedin](https://t.me/@MrcakilReal)
