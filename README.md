@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-I am a cyber security analys and have experience in working in many startups as Network engineering and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
+I am a cyber security analys and have experience in working in many startups as Network engineer and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
 
 
 - 🔭 I’m currently working on PHP, Bash, Python, HTML, And Analys CyberSecurity .
