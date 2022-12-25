@@ -13,5 +13,5 @@ I am a cyber security analys and have experience in working in many startups as 
 <img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
 
 ### 📫 Reach me at 
-![Telegram](https://t.me/@MrcakilReal)
+[![Telegram](https://t.me/@MrcakilReal)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
