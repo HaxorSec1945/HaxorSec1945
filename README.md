@@ -14,4 +14,3 @@ I am a cyber security analys and have experience in working in many startups as 
 
 ### 📫 Reach me at 
 [Telegram](https://t.me/@MrcakilReal)
-[![Linkedin](https://t.me/@MrcakilReal)
